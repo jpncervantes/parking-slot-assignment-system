@@ -25,7 +25,7 @@ function App() {
                     <span>3. Declare the available parking lot spots.</span>
                     <span>4. Select an entrance and a method</span>
                     <span>5. Confirm</span>
-                    <div>Note: Thank you for this activity. Unfortunately, I did not manage to finish it. Still, it was a fun activity.</div>
+                    <div>Note: Thank you for this activity. Although I did not manage to finish it, I still had fun.</div>
                 </Card.Body>
             </Card>
         </div>
