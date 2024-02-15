@@ -1,0 +1,39 @@
+.main-cards {
+    border: 1px solid rgb(20, 20, 20) !important;
+    padding: 20px;
+    border-radius: 15px !important;
+}
+
+.car-size-form {
+    gap: 20px;
+    display: flex;
+    margin-top: 10px;
+}
+
+.form-subtitle {
+    font-size: 18px;
+}
+
+div.available-slot {
+    margin-top: 100px;
+}
+
+h1.slot-coordinate {
+    font-size: 100px;
+    width: 100%;
+    text-align: center;
+}
+
+.receipt {
+    width: 80%;
+    border: 1px solid gray;
+    height: 250px;
+    border-radius: 10px;
+    background-color: rgb(236, 236, 236);
+    padding: 12px;
+}
+
+.add-time-btn {
+    margin-left: 5px;
+    padding: 0px 5px !important;
+}
